@@ -1,0 +1,28 @@
+#bg{
+    background-color: aqua;
+    padding-top: 5rem;
+}
+#count{
+    text-align: center;
+    display: block;
+    align-items: center;
+    font-size: 10rem;
+}
+#Countlabel{
+    text-align: center;
+}
+.buttons{
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    background-color: rgb(50, 50, 151);
+    color: beige;
+    border: none;
+    cursor:pointer;
+    transition: background-color 0.25s;
+
+}
+.buttons:hover{
+    background-color: blue;
+}
